@@ -1,3 +1,4 @@
 # Python-Student
-Basic Pythons Algorithms for Interview
+Basic Python Algorithms for Interview.
+<br>
 Author - Suyash Sonawane
